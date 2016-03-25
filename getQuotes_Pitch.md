@@ -37,7 +37,7 @@ Technical Background 2/2
 ========================================================
 The plot created by the above mentioned code is shown below:
 
-<img src="getQuotes_Pitch-figure/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+<img src="getQuotes_Pitch-figure/stockchart-1.png" title="plot of chunk stockchart" alt="plot of chunk stockchart" style="display: block; margin: auto;" />
 
 
 Links

@@ -36,7 +36,7 @@ Technical Background 2/2
 ========================================================
 The plot created by the above mentioned code is shown below:
 
-```{r, fig.align='center', echo=FALSE}
+```{r, stockchart, fig.align='center', echo=FALSE}
 library(quantmod)
 stockdat <- getSymbols("YHOO", env=NULL)
 chartSeries(stockdat, theme = "white")
